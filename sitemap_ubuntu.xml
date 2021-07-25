@@ -1,0 +1,26 @@
+
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" ?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+    <url>
+		<loc>https://ubuntu.howtodostuff.org/</loc>
+		<lastmod>2021-07-25T07:52:46+00:00</lastmod>
+   </url>
+	<url>
+		<loc>https://ubuntu.howtodostuff.org/disable-remove-keyring-password-ubuntu-21-04-or-20-04.html</loc>
+		<lastmod>2021-07-25T07:52:46+00:00</lastmod>
+		<image:image>
+			<image:loc>https://ubuntu.howtodostuff.org/assets/images/Disable-Keyring-ubuntu.jpg</image:loc>
+			<image:title><![CDATA[Disable keyring password in ubuntu]]></image:title>
+			<image:caption><![CDATA[Disable keyring password in ubuntu]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://ubuntu.howtodostuff.org/assets/images/Disable-Keyring-ubuntu.jpg</image:loc>
+			<image:caption><![CDATA[Disable keyring password in ubuntu]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://ubuntu.howtodostuff.org/assets/images/Disable-Keyring-ubuntu.jpg</image:loc>
+		</image:image>
+	</url>
+	
+</urlset>
